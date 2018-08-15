@@ -2,7 +2,8 @@
 
 * [Введение](README.md)
 * [Глоссарий](glossary.md)
-* [Сборка](assemble.md)
+* [Сборка Clever 2](assemble.md)
+* [Сборка Clever 3](assemble_Clever3.md)
 * [Первоначальная настройка](setup.md)
 * [Полетные режимы](modes.md)
 * [Raspberry Pi](raspberry.md)
